@@ -30,7 +30,8 @@ It is located in `ressources/our_champ` n assembler form, you will need to compi
 
 ![Screenshot](ressources/.screenshots/ourchampcw.png)
 
-How to exec:
+### How to exec:
+
 You will need the following dependencies installed on your shell 
 - GNU Make
 - GNU Compiler (gcc)
