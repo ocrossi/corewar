@@ -35,7 +35,7 @@ It is located in `ressources/our_champ` n assembler form, you will need to compi
 You will need the following dependencies installed on your shell 
 - GNU Make
 - GNU Compiler (gcc)
-- Sdl2 (a checker les dependancies sur mon mac)
+- Sdl2 + sdl2-ttf + sdl2-mixer + sdl23-image (a checker les dependancies sur mon mac)
 
 To compile the code, clone the repo, enter the repo cloned and insert make
 
